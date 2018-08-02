@@ -1,5 +1,5 @@
 {
-    "name": "ng2-pica",
+    "name": "ng2-pica/ng2-pica",
     "version": "1.2.6",
     "description": "Angular wrapper for pica to resize images.",
     "repository": {
